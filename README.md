@@ -9,7 +9,7 @@
 ---
 
 ## ✨ Features
-- **Discover Anime Images**: Browse high-quality anime wallpapers by tags (e.g., `maid`, `neko`).
+- **Discover Anime Images**: Browse high-quality anime wallpapers by tags (e.g., `maid`, `neko`, `ecchi`).
 - **Save Favorites**: Bookmark images to view later in your saved collection.
 - **Download with Watermark**: Images include a subtle "ImageShorts" watermark when downloaded.
 - **Responsive Design**: Works on mobile and desktop.

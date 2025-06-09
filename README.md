@@ -1,6 +1,6 @@
 # MyWaifu 🌸
 
-**A lightweight, privacy-friendly image gallery to discover and save anime wallpapers.**  
+**A lightweight, privacy-friendly image gallery to discover and save anime/waifu wallpapers.**  
 
 **Live Demo**: [https://creativedemon.github.io/MyWaifu/](https://creativedemon.github.io/MyWaifu/)
 

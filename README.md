@@ -3,7 +3,7 @@
 **A lightweight, privacy-friendly image gallery to discover and save anime wallpapers.**  
 Live Demo: [https://creativedemon.github.io/MyWaifu/](https://creativedemon.github.io/MyWaifu/)
 
-![Screenshot](https://res.cloudinary.com/dafjjvcsh/image/upload/v1746796779/inpfwot2owzhsdjqrmj6.jpg?q_auto:good&f_auto&w_1000) *(Add a screenshot later)*
+![Screenshot](https://res.cloudinary.com/dafjjvcsh/image/upload/v1746796779/inpfwot2owzhsdjqrmj6.jpg?q_auto:good&f_auto&w_1000) 
 
 ---
 

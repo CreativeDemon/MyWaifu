@@ -1,24 +1,30 @@
-# 🌸 MyWaifu — Anime Waifu Image Scroll Gallery
+# MyWaifu 🌸
 
-**MyWaifu** is a clean and simple anime image scroll website made for all waifu lovers. This project features a responsive, scrollable gallery of anime characters with a sleek layout — and now it’s open source for everyone!
+**A lightweight, privacy-friendly image gallery to discover and save anime wallpapers.**  
+Live Demo: [https://creativedemon.github.io/MyWaifu/](https://creativedemon.github.io/MyWaifu/)
 
-## 💡 Features
+![Screenshot](https://res.cloudinary.com/dafjjvcsh/image/upload/v1746796779/inpfwot2owzhsdjqrmj6.jpg?q_auto:good&f_auto&w_1000) *(Add a screenshot later)*
 
-- 📱 Responsive layout (mobile & desktop)
-- 🖼️ Infinite scroll-style image display
-- ⚡ Fast-loading & optimized
-- 🎨 Easy to customize UI
-- 👩‍💻 Beginner-friendly code
+---
 
-## 🚀 Demo
+## ✨ Features
+- **Discover Anime Images**: Browse high-quality anime wallpapers by tags (e.g., `maid`, `neko`).
+- **Save Favorites**: Bookmark images to view later in your saved collection.
+- **Download with Watermark**: Images include a subtle "ImageShorts" watermark when downloaded.
+- **Responsive Design**: Works on mobile and desktop.
+- **No Tracking**: No ads, analytics, or external tracking scripts.
 
-👉 [Live Demo](https://creativedemon.github.io/MyWaifu/) 
+---
 
-![MyWaifu Preview](https://res.cloudinary.com/dafjjvcsh/image/upload/v1746796779/inpfwot2owzhsdjqrmj6.jpg?q_auto:good&f_auto&w_1000)
+## 🛠️ Tech Stack
+- **Frontend**: HTML, Tailwind CSS, JavaScript
+- **Libraries**: [Swiper.js](https://swiperjs.com/) (for image carousels)
+- **Hosting**: GitHub Pages
 
+---
 
-## 🔧 How to Use
-
-1. **Clone this repo:**
+## 🚀 Quick Setup
+1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/mywaifu.git
+   git clone https://github.com/CreativeDemon/MyWaifu.git
+   cd MyWaifu

@@ -16,8 +16,6 @@
 
 ![MyWaifu Preview](preview.jpg)
 
-## 📁 Folder Structure
-mywaifu/ ├── index.html ├── style.css ├── script.js ├── images/ │   └── (your waifu images) ├── assets/ │   └── (icons, logos, etc.)
 
 ## 🔧 How to Use
 

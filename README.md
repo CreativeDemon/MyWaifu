@@ -12,9 +12,8 @@
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://your-site-link.com) *(replace with your link)*
-
-![MyWaifu Preview](preview.jpg)
+👉 [Live Demo](https://creativedemon.github.io/MyWaifu/) 
+![MyWaifu Preview](https://res.cloudinary.com/dafjjvcsh/image/upload/v1746796779/inpfwot2owzhsdjqrmj6.jpg?q_auto:good&f_auto&w_1000)
 
 
 ## 🔧 How to Use
